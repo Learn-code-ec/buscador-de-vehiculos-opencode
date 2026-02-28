@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "marca": "Chevrolet",
+    "modelo": "Equinox",
+    "año": 2010,
+    "color": "Verde",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Chevrolet+Equinox"
+  },
+  {
+    "id": 2,
+    "marca": "Mercedes-Benz",
+    "modelo": "E-Class",
+    "año": 2012,
+    "color": "Azul",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mercedes-Benz+E-Class"
+  },
+  {
+    "id": 3,
+    "marca": "Audi",
+    "modelo": "A4",
+    "año": 2012,
+    "color": "Amarillo",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+A4"
+  },
+  {
+    "id": 4,
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "año": 2012,
+    "color": "Negro",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Nissan+Sentra"
+  },
+  {
+    "id": 5,
+    "marca": "Renault",
+    "modelo": "Clio",
+    "año": 2015,
+    "color": "Rojo",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Renault+Clio"
+  },
+  {
+    "id": 6,
+    "marca": "Hyundai",
+    "modelo": "Sonata",
+    "año": 2015,
+    "color": "Negro",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Hyundai+Sonata"
+  },
+  {
+    "id": 7,
+    "marca": "Ford",
+    "modelo": "Escape",
+    "año": 2011,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Ford+Escape"
+  },
+  {
+    "id": 8,
+    "marca": "Volvo",
+    "modelo": "S60",
+    "año": 2019,
+    "color": "Blanco",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volvo+S60"
+  },
+  {
+    "id": 9,
+    "marca": "Ford",
+    "modelo": "Escape",
+    "año": 2012,
+    "color": "Negro",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Ford+Escape"
+  },
+  {
+    "id": 10,
+    "marca": "Mercedes-Benz",
+    "modelo": "GLC",
+    "año": 2012,
+    "color": "Naranja",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mercedes-Benz+GLC"
+  },
+  {
+    "id": 11,
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "año": 2017,
+    "color": "Plateado",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volkswagen+Passat"
+  },
+  {
+    "id": 12,
+    "marca": "Subaru",
+    "modelo": "Ascent",
+    "año": 2015,
+    "color": "Marrón",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Subaru+Ascent"
+  },
+  {
+    "id": 13,
+    "marca": "Audi",
+    "modelo": "A3",
+    "año": 2012,
+    "color": "Blanco",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+A3"
+  },
+  {
+    "id": 14,
+    "marca": "Jeep",
+    "modelo": "Wrangler",
+    "año": 2018,
+    "color": "Blanco",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Jeep+Wrangler"
+  },
+  {
+    "id": 15,
+    "marca": "Volvo",
+    "modelo": "XC60",
+    "año": 2025,
+    "color": "Azul",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volvo+XC60"
+  },
+  {
+    "id": 16,
+    "marca": "Audi",
+    "modelo": "A6",
+    "año": 2015,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+A6"
+  },
+  {
+    "id": 17,
+    "marca": "Tesla",
+    "modelo": "Model X",
+    "año": 2022,
+    "color": "Naranja",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Model X"
+  },
+  {
+    "id": 18,
+    "marca": "Hyundai",
+    "modelo": "Kona",
+    "año": 2019,
+    "color": "Rojo",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Hyundai+Kona"
+  },
+  {
+    "id": 19,
+    "marca": "Audi",
+    "modelo": "Q5",
+    "año": 2017,
+    "color": "Gris",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+Q5"
+  },
+  {
+    "id": 20,
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "año": 2015,
+    "color": "Verde",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volkswagen+Passat"
+  },
+  {
+    "id": 21,
+    "marca": "Toyota",
+    "modelo": "Camry",
+    "año": 2021,
+    "color": "Amarillo",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Toyota+Camry"
+  },
+  {
+    "id": 22,
+    "marca": "Kia",
+    "modelo": "Telluride",
+    "año": 2013,
+    "color": "Plateado",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Kia+Telluride"
+  },
+  {
+    "id": 23,
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2020,
+    "color": "Naranja",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Honda+Civic"
+  },
+  {
+    "id": 24,
+    "marca": "Jeep",
+    "modelo": "Wrangler",
+    "año": 2024,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Jeep+Wrangler"
+  },
+  {
+    "id": 25,
+    "marca": "Volkswagen",
+    "modelo": "Jetta",
+    "año": 2021,
+    "color": "Naranja",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volkswagen+Jetta"
+  },
+  {
+    "id": 26,
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "año": 2019,
+    "color": "Naranja",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volkswagen+Golf"
+  },
+  {
+    "id": 27,
+    "marca": "Volvo",
+    "modelo": "XC90",
+    "año": 2011,
+    "color": "Gris",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volvo+XC90"
+  },
+  {
+    "id": 28,
+    "marca": "Chevrolet",
+    "modelo": "Equinox",
+    "año": 2019,
+    "color": "Azul",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Chevrolet+Equinox"
+  },
+  {
+    "id": 29,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2010,
+    "color": "Azul",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Toyota+Corolla"
+  },
+  {
+    "id": 30,
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "año": 2011,
+    "color": "Marrón",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mazda+CX-5"
+  },
+  {
+    "id": 31,
+    "marca": "Volvo",
+    "modelo": "XC60",
+    "año": 2011,
+    "color": "Blanco",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volvo+XC60"
+  },
+  {
+    "id": 32,
+    "marca": "Renault",
+    "modelo": "Kadjar",
+    "año": 2024,
+    "color": "Gris",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Renault+Kadjar"
+  },
+  {
+    "id": 33,
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "año": 2014,
+    "color": "Amarillo",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=BMW+Serie 3"
+  },
+  {
+    "id": 34,
+    "marca": "Peugeot",
+    "modelo": "308",
+    "año": 2013,
+    "color": "Rojo",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Peugeot+308"
+  },
+  {
+    "id": 35,
+    "marca": "Toyota",
+    "modelo": "Tacoma",
+    "año": 2017,
+    "color": "Blanco",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Toyota+Tacoma"
+  },
+  {
+    "id": 36,
+    "marca": "Kia",
+    "modelo": "Sorento",
+    "año": 2024,
+    "color": "Verde",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Kia+Sorento"
+  },
+  {
+    "id": 37,
+    "marca": "Ford",
+    "modelo": "Explorer",
+    "año": 2020,
+    "color": "Gris",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Ford+Explorer"
+  },
+  {
+    "id": 38,
+    "marca": "Lexus",
+    "modelo": "ES",
+    "año": 2014,
+    "color": "Marrón",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Lexus+ES"
+  },
+  {
+    "id": 39,
+    "marca": "Fiat",
+    "modelo": "500",
+    "año": 2016,
+    "color": "Gris",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Fiat+500"
+  },
+  {
+    "id": 40,
+    "marca": "Audi",
+    "modelo": "A6",
+    "año": 2010,
+    "color": "Verde",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+A6"
+  },
+  {
+    "id": 41,
+    "marca": "Ford",
+    "modelo": "Escape",
+    "año": 2013,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Ford+Escape"
+  },
+  {
+    "id": 42,
+    "marca": "Renault",
+    "modelo": "Talisman",
+    "año": 2021,
+    "color": "Azul",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Renault+Talisman"
+  },
+  {
+    "id": 43,
+    "marca": "Hyundai",
+    "modelo": "Kona",
+    "año": 2025,
+    "color": "Verde",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Hyundai+Kona"
+  },
+  {
+    "id": 44,
+    "marca": "Mercedes-Benz",
+    "modelo": "C-Class",
+    "año": 2011,
+    "color": "Naranja",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mercedes-Benz+C-Class"
+  },
+  {
+    "id": 45,
+    "marca": "Volvo",
+    "modelo": "S90",
+    "año": 2011,
+    "color": "Plateado",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volvo+S90"
+  },
+  {
+    "id": 46,
+    "marca": "Mazda",
+    "modelo": "Mazda6",
+    "año": 2016,
+    "color": "Gris",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mazda+Mazda6"
+  },
+  {
+    "id": 47,
+    "marca": "Toyota",
+    "modelo": "Highlander",
+    "año": 2019,
+    "color": "Rojo",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Toyota+Highlander"
+  },
+  {
+    "id": 48,
+    "marca": "Ford",
+    "modelo": "Explorer",
+    "año": 2016,
+    "color": "Verde",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Ford+Explorer"
+  },
+  {
+    "id": 49,
+    "marca": "Fiat",
+    "modelo": "500L",
+    "año": 2017,
+    "color": "Verde",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Fiat+500L"
+  },
+  {
+    "id": 50,
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "año": 2025,
+    "color": "Amarillo",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Hyundai+Elantra"
+  },
+  {
+    "id": 51,
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "año": 2020,
+    "color": "Rojo",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Hyundai+Elantra"
+  },
+  {
+    "id": 52,
+    "marca": "Jeep",
+    "modelo": "Renegade",
+    "año": 2011,
+    "color": "Rojo",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Jeep+Renegade"
+  },
+  {
+    "id": 53,
+    "marca": "Tesla",
+    "modelo": "Model X",
+    "año": 2023,
+    "color": "Gris",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Model X"
+  },
+  {
+    "id": 54,
+    "marca": "Volvo",
+    "modelo": "S90",
+    "año": 2025,
+    "color": "Blanco",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volvo+S90"
+  },
+  {
+    "id": 55,
+    "marca": "Nissan",
+    "modelo": "Frontier",
+    "año": 2010,
+    "color": "Blanco",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Nissan+Frontier"
+  },
+  {
+    "id": 56,
+    "marca": "Tesla",
+    "modelo": "Model X",
+    "año": 2015,
+    "color": "Rojo",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Model X"
+  },
+  {
+    "id": 57,
+    "marca": "Tesla",
+    "modelo": "Cybertruck",
+    "año": 2018,
+    "color": "Gris",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Cybertruck"
+  },
+  {
+    "id": 58,
+    "marca": "Subaru",
+    "modelo": "Impreza",
+    "año": 2014,
+    "color": "Marrón",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Subaru+Impreza"
+  },
+  {
+    "id": 59,
+    "marca": "Jeep",
+    "modelo": "Cherokee",
+    "año": 2013,
+    "color": "Plateado",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Jeep+Cherokee"
+  },
+  {
+    "id": 60,
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "año": 2023,
+    "color": "Rojo",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Nissan+Sentra"
+  },
+  {
+    "id": 61,
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "año": 2022,
+    "color": "Plateado",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Model 3"
+  },
+  {
+    "id": 62,
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "año": 2024,
+    "color": "Azul",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Hyundai+Tucson"
+  },
+  {
+    "id": 63,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2021,
+    "color": "Amarillo",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Toyota+Corolla"
+  },
+  {
+    "id": 64,
+    "marca": "Tesla",
+    "modelo": "Model Y",
+    "año": 2020,
+    "color": "Marrón",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Model Y"
+  },
+  {
+    "id": 65,
+    "marca": "Renault",
+    "modelo": "Kadjar",
+    "año": 2011,
+    "color": "Gris",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Renault+Kadjar"
+  },
+  {
+    "id": 66,
+    "marca": "Tesla",
+    "modelo": "Model X",
+    "año": 2015,
+    "color": "Gris",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Model X"
+  },
+  {
+    "id": 67,
+    "marca": "Kia",
+    "modelo": "Sportage",
+    "año": 2021,
+    "color": "Rojo",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Kia+Sportage"
+  },
+  {
+    "id": 68,
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2013,
+    "color": "Azul",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Honda+Civic"
+  },
+  {
+    "id": 69,
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "año": 2015,
+    "color": "Amarillo",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volkswagen+Passat"
+  },
+  {
+    "id": 70,
+    "marca": "Audi",
+    "modelo": "Q5",
+    "año": 2012,
+    "color": "Amarillo",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+Q5"
+  },
+  {
+    "id": 71,
+    "marca": "Audi",
+    "modelo": "A6",
+    "año": 2013,
+    "color": "Verde",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+A6"
+  },
+  {
+    "id": 72,
+    "marca": "Audi",
+    "modelo": "A4",
+    "año": 2016,
+    "color": "Amarillo",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+A4"
+  },
+  {
+    "id": 73,
+    "marca": "BMW",
+    "modelo": "Serie 7",
+    "año": 2022,
+    "color": "Amarillo",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=BMW+Serie 7"
+  },
+  {
+    "id": 74,
+    "marca": "Chevrolet",
+    "modelo": "Malibu",
+    "año": 2015,
+    "color": "Blanco",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Chevrolet+Malibu"
+  },
+  {
+    "id": 75,
+    "marca": "Subaru",
+    "modelo": "Crosstrek",
+    "año": 2021,
+    "color": "Naranja",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Subaru+Crosstrek"
+  },
+  {
+    "id": 76,
+    "marca": "Tesla",
+    "modelo": "Cybertruck",
+    "año": 2011,
+    "color": "Rojo",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Cybertruck"
+  },
+  {
+    "id": 77,
+    "marca": "Audi",
+    "modelo": "Q7",
+    "año": 2018,
+    "color": "Amarillo",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+Q7"
+  },
+  {
+    "id": 78,
+    "marca": "Nissan",
+    "modelo": "Altima",
+    "año": 2018,
+    "color": "Naranja",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Nissan+Altima"
+  },
+  {
+    "id": 79,
+    "marca": "Kia",
+    "modelo": "Telluride",
+    "año": 2021,
+    "color": "Amarillo",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Kia+Telluride"
+  },
+  {
+    "id": 80,
+    "marca": "Volvo",
+    "modelo": "XC60",
+    "año": 2015,
+    "color": "Negro",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volvo+XC60"
+  },
+  {
+    "id": 81,
+    "marca": "Audi",
+    "modelo": "Q7",
+    "año": 2020,
+    "color": "Azul",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Audi+Q7"
+  },
+  {
+    "id": 82,
+    "marca": "Fiat",
+    "modelo": "Tipo",
+    "año": 2018,
+    "color": "Amarillo",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Fiat+Tipo"
+  },
+  {
+    "id": 83,
+    "marca": "Fiat",
+    "modelo": "500X",
+    "año": 2023,
+    "color": "Blanco",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Fiat+500X"
+  },
+  {
+    "id": 84,
+    "marca": "Honda",
+    "modelo": "Accord",
+    "año": 2015,
+    "color": "Marrón",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Honda+Accord"
+  },
+  {
+    "id": 85,
+    "marca": "Honda",
+    "modelo": "Accord",
+    "año": 2015,
+    "color": "Marrón",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Honda+Accord"
+  },
+  {
+    "id": 86,
+    "marca": "Kia",
+    "modelo": "Telluride",
+    "año": 2023,
+    "color": "Gris",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Kia+Telluride"
+  },
+  {
+    "id": 87,
+    "marca": "Volkswagen",
+    "modelo": "Jetta",
+    "año": 2022,
+    "color": "Gris",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volkswagen+Jetta"
+  },
+  {
+    "id": 88,
+    "marca": "Mazda",
+    "modelo": "CX-9",
+    "año": 2023,
+    "color": "Marrón",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mazda+CX-9"
+  },
+  {
+    "id": 89,
+    "marca": "BMW",
+    "modelo": "Serie 7",
+    "año": 2024,
+    "color": "Plateado",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=BMW+Serie 7"
+  },
+  {
+    "id": 90,
+    "marca": "Jeep",
+    "modelo": "Cherokee",
+    "año": 2015,
+    "color": "Azul",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Jeep+Cherokee"
+  },
+  {
+    "id": 91,
+    "marca": "Mazda",
+    "modelo": "Mazda6",
+    "año": 2017,
+    "color": "Amarillo",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mazda+Mazda6"
+  },
+  {
+    "id": 92,
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "año": 2011,
+    "color": "Plateado",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mazda+CX-5"
+  },
+  {
+    "id": 93,
+    "marca": "Mercedes-Benz",
+    "modelo": "E-Class",
+    "año": 2024,
+    "color": "Blanco",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mercedes-Benz+E-Class"
+  },
+  {
+    "id": 94,
+    "marca": "Jeep",
+    "modelo": "Cherokee",
+    "año": 2017,
+    "color": "Verde",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Jeep+Cherokee"
+  },
+  {
+    "id": 95,
+    "marca": "Kia",
+    "modelo": "Forte",
+    "año": 2015,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Kia+Forte"
+  },
+  {
+    "id": 96,
+    "marca": "Renault",
+    "modelo": "Megane",
+    "año": 2021,
+    "color": "Negro",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Renault+Megane"
+  },
+  {
+    "id": 97,
+    "marca": "Peugeot",
+    "modelo": "308",
+    "año": 2016,
+    "color": "Verde",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Peugeot+308"
+  },
+  {
+    "id": 98,
+    "marca": "Subaru",
+    "modelo": "Impreza",
+    "año": 2020,
+    "color": "Gris",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Subaru+Impreza"
+  },
+  {
+    "id": 99,
+    "marca": "Kia",
+    "modelo": "Telluride",
+    "año": 2011,
+    "color": "Plateado",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Kia+Telluride"
+  },
+  {
+    "id": 100,
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "año": 2014,
+    "color": "Blanco",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Peugeot+2008"
+  },
+  {
+    "id": 101,
+    "marca": "Subaru",
+    "modelo": "Ascent",
+    "año": 2016,
+    "color": "Amarillo",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Subaru+Ascent"
+  },
+  {
+    "id": 102,
+    "marca": "Volvo",
+    "modelo": "S90",
+    "año": 2017,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Volvo+S90"
+  },
+  {
+    "id": 103,
+    "marca": "Jeep",
+    "modelo": "Cherokee",
+    "año": 2012,
+    "color": "Plateado",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Jeep+Cherokee"
+  },
+  {
+    "id": 104,
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2018,
+    "color": "Blanco",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Honda+Civic"
+  },
+  {
+    "id": 105,
+    "marca": "Ford",
+    "modelo": "F-150",
+    "año": 2013,
+    "color": "Negro",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Ford+F-150"
+  },
+  {
+    "id": 106,
+    "marca": "Lexus",
+    "modelo": "ES",
+    "año": 2011,
+    "color": "Gris",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Lexus+ES"
+  },
+  {
+    "id": 107,
+    "marca": "Nissan",
+    "modelo": "Frontier",
+    "año": 2010,
+    "color": "Negro",
+    "puertas": 2,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Nissan+Frontier"
+  },
+  {
+    "id": 108,
+    "marca": "Honda",
+    "modelo": "HR-V",
+    "año": 2012,
+    "color": "Amarillo",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Honda+HR-V"
+  },
+  {
+    "id": 109,
+    "marca": "Honda",
+    "modelo": "Accord",
+    "año": 2018,
+    "color": "Naranja",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Honda+Accord"
+  },
+  {
+    "id": 110,
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "año": 2015,
+    "color": "Plateado",
+    "puertas": 5,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Hyundai+Tucson"
+  },
+  {
+    "id": 111,
+    "marca": "Peugeot",
+    "modelo": "3008",
+    "año": 2012,
+    "color": "Rojo",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Peugeot+3008"
+  },
+  {
+    "id": 112,
+    "marca": "Jeep",
+    "modelo": "Wrangler",
+    "año": 2019,
+    "color": "Negro",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Jeep+Wrangler"
+  },
+  {
+    "id": 113,
+    "marca": "Peugeot",
+    "modelo": "308",
+    "año": 2020,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Peugeot+308"
+  },
+  {
+    "id": 114,
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "año": 2025,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Tesla+Model 3"
+  },
+  {
+    "id": 115,
+    "marca": "BMW",
+    "modelo": "Serie 5",
+    "año": 2025,
+    "color": "Amarillo",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=BMW+Serie 5"
+  },
+  {
+    "id": 116,
+    "marca": "Toyota",
+    "modelo": "Tacoma",
+    "año": 2018,
+    "color": "Verde",
+    "puertas": 2,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Toyota+Tacoma"
+  },
+  {
+    "id": 117,
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "año": 2018,
+    "color": "Blanco",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Hyundai+Elantra"
+  },
+  {
+    "id": 118,
+    "marca": "Mercedes-Benz",
+    "modelo": "GLE",
+    "año": 2022,
+    "color": "Gris",
+    "puertas": 4,
+    "tipo_caja": "automática",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Mercedes-Benz+GLE"
+  },
+  {
+    "id": 119,
+    "marca": "Toyota",
+    "modelo": "RAV4",
+    "año": 2013,
+    "color": "Verde",
+    "puertas": 5,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Toyota+RAV4"
+  },
+  {
+    "id": 120,
+    "marca": "Nissan",
+    "modelo": "Frontier",
+    "año": 2025,
+    "color": "Negro",
+    "puertas": 4,
+    "tipo_caja": "manual",
+    "imagen": "https://via.placeholder.com/280x180/10b981/ffffff?text=Nissan+Frontier"
+  }
+]
