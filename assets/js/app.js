@@ -3,6 +3,7 @@ import { initializeTheme } from './ui/theme.js';
 import { setupThemeEvents } from './events/themeEvents.js';
 import { setupFilterEvents, applyFilters } from './events/filterEvents.js';
 import { populateFilterOptions, showLoading, hideLoading, showError } from './ui/render.js';
+import { initializeScrollToTop } from './ui/scrollToTop.js';
 
 let allVehicles = [];
 
@@ -25,6 +26,9 @@ async function initializeApp() {
         
         // Apply initial filters (shows all vehicles)
         applyFilters(allVehicles);
+        
+        // Initialize scroll to top button
+        initializeScrollToTop();
         
         hideLoading();
     } catch (error) {

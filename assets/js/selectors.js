@@ -45,6 +45,10 @@ export function getErrorMessage() {
     return document.getElementById('errorMessage');
 }
 
+export function getBackToTopBtn() {
+    return document.getElementById('backToTop');
+}
+
 // Utility function to get element by ID
 export function getElementById(id) {
     return document.getElementById(id);
